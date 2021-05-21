@@ -80,4 +80,4 @@ Microsoft では、社内の従業員と外部のゲストがポリシーを確�
 
     ![B2B Collaboration Review Permissions ボックスとメッセージ](./media/active-directory-no-privacy-statement-or-contact.png)
 
-1. **「保存」** を選択します。
+3. **「保存」** を選択します。

@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: '13 - Azure AD の Multi-Factor Authentication を有効にする'
+    title: '13 - セルフサービス パスワード リセットを構成してデプロイする'
     learning path: '02'
     module: 'モジュール 02 - ユーザー認証を管理する'
 ---

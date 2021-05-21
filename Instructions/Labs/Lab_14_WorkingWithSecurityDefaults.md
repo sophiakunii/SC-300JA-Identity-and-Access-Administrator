@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: '14 - Azure AD の Multi-Factor Authentication を有効にする'
+    title: '14 - セキュリティの規定値群を使用する'
     learning path: '02'
     module: 'モジュール 03 -条件付きアクセスの計画、実装、管理を行う'
 ---

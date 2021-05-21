@@ -1,6 +1,6 @@
 ﻿---
 lab:
-    title: '29 - Azure AD ロール用に Privileged Identity Management を構成する'
+    title: '29 - Privileged Identity Management で Azure AD ロールを割り当てる'
     learning path: '04'
     module: 'モジュール 03 - 特権アクセスの計画と実装を行う'
 ---
@@ -88,7 +88,7 @@ Azure AD ロールを想定する必要がある場合は、Privileged Identity 
 >[!ヒント]
 >管理単位のスコープの種類の詳細については、[https://docs.microsoft.com/ja-jp/azure/active-directory/roles/admin-units-manage](https://docs.microsoft.com/en-us/azure/active-directory/roles/admin-units-manage) を参照してください。
 
-1. 制限されたスコープを使用せずにロールを割り当てたときと同様に、メンバーを追加し、設定オプションを完了します。ここでは、**「キャンセル」** を選択します。
+5. 制限されたスコープを使用せずにロールを割り当てたときと同様に、メンバーを追加し、設定オプションを完了します。ここでは、**「キャンセル」** を選択します。
 
 ## 既存のロールの割り当てを更新または削除する
 
