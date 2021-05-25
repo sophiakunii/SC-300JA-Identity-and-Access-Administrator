@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '29 - Privileged Identity Management で Azure AD ロールを割り当てる'
     learning path: '04'

@@ -1,4 +1,4 @@
-﻿---
+---
 lab:
     title: '04 - 削除済みユーザーの復元'
     learning path: '01'
