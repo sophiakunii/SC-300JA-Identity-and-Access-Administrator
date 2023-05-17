@@ -81,7 +81,7 @@ SSPR の構成が完了したので、作成したユーザーの携帯電話番
 
     これは、ユーザー認証を求めるメッセージが表示されるようにするためです。
 
-1. 前に記録したパスワードを使用し、**uta@***organization-domain-name***.onmicrosoft.com** としてサインインします。
+1. 前に記録したパスワードを使用し、**utu@***organization-domain-name***.onmicrosoft.com** としてサインインします。
 
 1. organization-domain-name は実際のドメイン名に置き換えます。
 
@@ -111,7 +111,7 @@ SSPR の構成が完了したので、作成したユーザーの携帯電話番
 
     これは、ユーザー認証を求めるメッセージが表示されるようにするためです。
 
-1. 「**メール**、**電話**、**または Skype**」 ボックスに 「**uta@***organization-domain-name***.onmicrosoft.com**」 と入力し、**「次へ」** を選択します。
+1. 「**メール**、**電話**、**または Skype**」 ボックスに 「**utu@***organization-domain-name***.onmicrosoft.com**」 と入力し、**「次へ」** を選択します。
 
 1. organization-domain-name は実際のドメイン名に置き換えます。
 
