@@ -18,17 +18,13 @@ lab:
 
 ## Multi-Factor Authentication オプションを構成する
 
-1. ディレクトリのグローバル管理者アカウントを使用して [https://portal.azure.com](https://portal.azure.com) を参照し、サインインします。
+1. テナントのグローバル管理者またはユーザー管理者ロールが割り当てられたアカウントで [https://portal.azure.com](https://portal.azure.com) にサインインします。
 
-1. 検索機能を使用して、**「multi-factor」** を検索します。
+1. **Azure Active Directory** を選択します。
 
-1. 検索結果で、「**Multi-Factor Authentication**」 を選択します。
+1. **「管理」** の下の **「ユーザー」** を選択し、**「ユーザーごとの MFA」** を選択します。
 
-1. 「はじめに」ページの **「構成」** で、**「追加のクラウドベースの MFA 設定」** を選択します。
-
-    ![ダッシュボードの MFA オプションを示すスクリーンショット](./media/lp2-mod1-set-additional-mfa-settings.png)
-
-1. 新しいブラウザー ページには、Azure ユーザーの MFA オプションとサービス設定が表示されます。
+1. 新しいブラウザー ページで **「サービス設定」** を選択すると、Azure ユーザーの MFA オプションとサービス設定が表示されます。
 
     ![MFA 構成を示すスクリーンショット](./media/lp2-mod1-mfa-settings.png)
 
